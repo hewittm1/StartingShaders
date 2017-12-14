@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/water sahder.unity
+  isLoaded: 1
+  isActive: 1
